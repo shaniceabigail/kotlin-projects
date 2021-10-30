@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KMMSpaceX.iml" filepath="$PROJECT_DIR$/.idea/modules/KMMSpaceX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpaceXTutorial/KMMSpaceX.SpaceXTutorial.iml" filepath="$PROJECT_DIR$/.idea/modules/SpaceXTutorial/KMMSpaceX.SpaceXTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shared/KMMSpaceX.shared.iml" filepath="$PROJECT_DIR$/.idea/modules/shared/KMMSpaceX.shared.iml" />
+    </modules>
+  </component>
+</project>
